@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "vaibhabawa",
+      "email": "vaibhav@gmail.com",
+      "mobile": 9168273019,
+      "address": "pune",
+      "services": "coffee"
+    }
+  ],
+  "singup": [
+    {
+      "name": "vaibhavbawa",
+      "mobile": "9168273019",
+      "email": "vaibhav@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "anushkashelke",
+      "mobile": "1265423656",
+      "email": "anushka@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
